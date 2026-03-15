@@ -1,0 +1,13 @@
+V_001
+
+TODO: 'verificação de fonte'
+- análise de arquivos mpg.
+
+V_002
+TODO: arquivos .asf
+- verificação de fonte para mpg
+- nomenclatura na hora de exportar arquivo
+
+V_003
+TODO: compilar com nuitka
+- arquivos .asf e .wmv
