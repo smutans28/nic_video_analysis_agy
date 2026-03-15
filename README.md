@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assets/icone.ico" alt="NIC Forensic Tool Logo" width="120" />
-</div>
 
 # NIC Video Forensic Tool 🔍🎥
 
